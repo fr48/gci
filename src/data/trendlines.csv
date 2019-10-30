@@ -1,0 +1,61 @@
+country,year,score,Continent
+Mauritius,2018,0.88,Africa
+Kenya,2018,0.748,Africa
+United States of America,2018,0.926,North America
+Canada,2018,0.892,North America
+Brazil,2018,0.577,South America
+Uruguay,2018,0.681,South America
+Saudi Arabia,2018,0.881,Middle East
+Iran,2018,0.641,Middle East
+Israel,2018,0.783,Middle East
+Singapore,2018,0.898,Asia
+Australia,2018,0.89,Australia
+China,2018,0.828,Asia
+Russian Federation,2018,0.836,Former USSR
+Georgia,2018,0.857,Former USSR
+Ukraine,2018,0.661,Former USSR
+United Kingdom,2018,0.931,Europe
+France,2018,0.918,Europe
+Germany,2018,0.849,Europe
+Estonia,2018,0.905,Europe
+Malaysia,2018,0.893,Asia
+Mauritius,2016,0.83,Africa
+Kenya,2016,0.574,Africa
+United States of America,2016,0.919,North America
+Canada,2016,0.818,North America
+Brazil,2016,0.593,South America
+Uruguay,2016,0.647,South America
+Saudi Arabia,2016,0.569,Middle East
+Iran,2016,0.494,Middle East
+Israel,2016,0.691,Middle East
+Singapore,2016,0.925,Asia
+Australia,2016,0.824,Australia
+China,2016,0.624,Asia
+Russian Federation,2016,0.788,Former USSR
+Georgia,2016,0.819,Former USSR
+Ukraine,2016,0.501,Former USSR
+United Kingdom,2016,0.783,Europe
+France,2016,0.819,Europe
+Germany,2016,0.679,Europe
+Estonia,2016,0.846,Europe
+Malaysia,2016,0.893,Asia
+Mauritius,2014,0.588,Africa
+Kenya,2014,0.412,Africa
+United States of America,2014,0.824,North America
+Canada,2014,0.794,North America
+Brazil,2014,0.706,South America
+Uruguay,2014,0.618,South America
+Saudi Arabia,2014,0.294,Middle East
+Iran,2014,0.294,Middle East
+Israel,2014,0.676,Middle East
+Singapore,2014,0.676,Asia
+Australia,2014,0.765,Australia
+China,2014,0.441,Asia
+Russian Federation,2014,0.5,Former USSR
+Georgia,2014,0.5,Former USSR
+Ukraine,2014,0.353,Former USSR
+United Kingdom,2014,0.706,Europe
+France,2014,0.588,Europe
+Germany,2014,0.706,Europe
+Estonia,2014,0.706,Europe
+Malaysia,2014,0.765,Asia

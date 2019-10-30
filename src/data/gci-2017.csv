@@ -1,0 +1,196 @@
+Country,Score,Rank,Continent
+Afghanistan,0.245,100,Asia
+Albania,0.314,88,Europe
+Algeria,0.432,67,Middle East
+Andorra,0.057,153,Europe
+Angola,0.078,145,Africa
+Antigua and Barbuda,0.179,116,North America
+Argentina,0.482,62,South America
+Armenia,0.196,110,Former USSR
+Australia,0.824,7,Asia
+Austria,0.639,30,Europe
+Azerbaijan,0.559,48,Former USSR
+Bahamas,0.137,128,North America
+Bahrain,0.467,64,Middle East
+Bangladesh,0.524,53,Asia
+Barbados,0.273,94,North America
+Belarus,0.592,39,Former USSR
+Belgium,0.671,27,Europe
+Belize,0.182,115,North America
+Benin,0.069,148,Africa
+Bhutan,0.199,109,Asia
+Bolivia,0.122,133,South America
+Bosnia and Herzegovina,0.116,135,Europe
+Botswana,0.43,68,Africa
+Brazil,0.593,38,South America
+Brunei Darussalam,0.524,53,Asia
+Bulgaria,0.579,44,Europe
+Burkina Faso,0.208,107,Africa
+Burundi,0.12,134,Africa
+Cambodia,0.283,91,Asia
+Cameroon,0.413,74,Africa
+Canada,0.818,9,North America
+Cape Verde,0.058,152,Africa
+Central African Republic,0.007,163,Africa
+Chad,0.072,147,Africa
+Chile,0.367,80,South America
+China,0.624,32,Asia
+Colombia,0.569,46,South America
+Comoros,0.04,160,Middle East
+Congo,0.04,160,Africa
+Costa Rica,0.336,85,North America
+Cote d’Ivoire,0.416,73,Africa
+Croatia,0.59,41,Europe
+Cuba,0.058,152,North America
+Cyprus,0.487,60,Europe
+Czech Republic,0.609,35,Europe
+Democratic Republic of the Congo,0.04,160,Africa
+Demoratic People’s Republic of Korea,0.532,52,Asia
+Denmark,0.617,34,Europe
+Djibouti,0.099,139,Middle East
+Dominica,0.01,162,North America
+Dominican Republic,0.162,121,North America
+Ecuador,0.466,65,South America
+Egypt,0.772,14,Middle East
+El Salvador,0.208,107,North America
+Equatorial Guinea,0,164,Africa
+Eritrea,0.076,146,Africa
+Estonia,0.846,5,Europe
+Ethiopia,0.267,98,Africa
+Fiji,0.222,105,Asia
+Finland,0.741,16,Europe
+France,0.819,8,Europe
+Gabon,0.139,127,Africa
+Gambia,0.136,129,Africa
+Georgia,0.819,8,Former USSR
+Germany,0.679,24,Europe
+Ghana,0.326,86,Africa
+Greece,0.475,63,Europe
+Grenada,0.115,136,South America
+Guatemala,0.114,137,North America
+Guinea,0.09,143,Africa
+Guinea-Bissau,0.034,161,Africa
+Guyana,0.269,97,South America
+Haiti,0.04,160,North America
+Honduras,0.048,156,North America
+Hungary,0.534,51,Europe
+Iceland,0.384,77,Europe
+India,0.683,23,Asia
+Indonesia,0.424,69,Asia
+Iran,0.494,59,Asia
+Iraq,0.043,158,Middle East
+Ireland,0.675,26,Europe
+Israel,0.691,20,Middle East
+Italy,0.626,31,Europe
+Jamaica,0.339,84,North America
+Japan,0.786,11,Asia
+Jordan,0.277,92,Middle East
+Kazakhstan,0.352,82,Former USSR
+Kenya,0.574,45,Africa
+Kiribati,0.123,132,Asia
+Kuwait,0.104,138,Middle East
+Kyrgyzstan,0.27,96,Former USSR
+Lao,0.392,76,Asia
+Latvia,0.688,21,Europe
+Lebanon,0.172,118,Middle East
+Lesotho,0.094,142,Africa
+Liberia,0.149,123,Africa
+Libya,0.224,104,Middle East
+Liechtenstein,0.194,111,Europe
+Lithuania,0.504,56,Europe
+Luxembourg,0.602,36,Europe
+Madagascar,0.168,120,Africa
+Malawi,0.084,144,Africa
+Malaysia,0.893,3,Asia
+Maldives,0.056,154,Asia
+Mali,0.06,151,Africa
+Malta,0.399,75,Europe
+Marshall Islands,0.048,156,Asia
+Mauritania,0.146,124,Middle East
+Mauritius,0.83,6,Africa
+Mexico,0.66,28,North America
+Micronesia,0.044,157,Asia
+Moldova,0.418,72,Former USSR
+Monaco,0.236,102,Europe
+Mongolia,0.228,103,Asia
+Montenegro,0.422,70,Europe
+Morocco,0.541,49,Middle East
+Mozambique,0.206,108,Africa
+Myanmar,0.263,99,Asia
+Namibia,0.066,150,Africa
+Nauru,0.14,126,Asia
+Nepal,0.275,93,Asia
+Netherlands,0.76,15,Europe
+New Zealand,0.718,19,Asia
+Nicaragua,0.146,124,North America
+Niger,0.17,119,Africa
+Nigeria,0.569,46,Africa
+Norway,0.786,11,Europe
+Oman,0.871,4,Middle East
+Pakistan,0.447,66,Asia
+Palau,0.053,155,Asia
+Panama,0.485,61,South America
+Papua New Guinea,0.067,149,Asia
+Paraguay,0.326,86,South America
+Peru,0.374,78,South America
+Philippines,0.594,37,Asia
+Poland,0.622,33,Europe
+Portugal,0.508,55,Europe
+Qatar,0.676,25,Middle East
+Republic of Korea,0.782,13,Asia
+Romania,0.585,42,Europe
+Russian Federation,0.788,10,Former USSR
+Rwanda,0.602,36,Africa
+Saint Kitts and Nevis,0.066,150,North America
+Saint Lucia,0.053,155,North America
+Saint Vincent and the Grenadines,0.189,113,North America
+Samoa,0.048,156,Asia
+San Marino,0.174,117,Europe
+Sao Tome and Principe,0.04,160,Africa
+Saudi Arabia,0.569,46,Middle East
+Senegal,0.314,88,Africa
+Serbia,0.311,89,Europe
+Seychelles,0.184,114,Africa
+Sierra Leone,0.145,125,Africa
+Singapore,0.925,1,Asia
+Slovakia,0.362,81,Europe
+Slovenia,0.343,83,Europe
+Solomon Islands,0.095,141,Asia
+Somalia,0.034,161,Middle East
+South Africa,0.502,57,Africa
+South Sudan,0.067,149,Africa
+Spain,0.718,19,Europe
+Sri Lanka,0.419,71,Asia
+State of Palestine,0.228,103,Middle East
+Sudan,0.271,95,Middle East
+Suriname,0.155,122,South America
+Swaziland,0.041,159,Africa
+Sweden,0.733,17,Europe
+Switzerland,0.727,18,Europe
+Syrian Arab Republic,0.237,101,Middle East
+Tajikistan,0.292,90,Former USSR
+Tanzania,0.317,87,Africa
+Thailand,0.684,22,Asia
+The former Yugoslav Republic of Macedonia,0.517,54,Europe
+Timor-Leste,0.034,161,Asia
+Togo,0.218,106,Africa
+Tonga,0.292,90,Asia
+Trinidad and Tobago,0.098,140,North America
+Tunisia,0.591,40,Middle East
+Turkey,0.581,43,Europe
+Turkmenistan,0.133,131,Former USSR
+Tuvalu,0.034,161,Asia
+Uganda,0.536,50,Africa
+Ukraine,0.501,58,Former USSR
+United Arab Emirates,0.566,47,Middle East
+United Kingdom of Great Britain and Northern Ireland,0.783,12,Europe
+United States of America,0.919,2,North America
+Uruguay,0.647,29,South America
+Uzbekistan,0.277,92,Former USSR
+Vanuatu,0.134,130,Asia
+Vatican,0.04,160,Europe
+Venezuela,0.372,79,South America
+Viet Nam,0.245,100,Asia
+Yemen,0.007,163,Middle East
+Zambia,0.292,90,Africa
+Zimbabwe,0.192,112,Africa
